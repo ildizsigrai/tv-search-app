@@ -1,21 +1,18 @@
-# tv-search-app
-
 # TV Show Search Web App
 
-# Description
 The TV Show Search web application allows you to search for TV shows by their titles. It provides a simple and intuitive interface for quickly finding information about your favorite TV shows. With the help of the TV Maze API, you can discover details about TV shows and view their poster images.
 
 # Technologies Used
-# HTML: 
+**HTML:**
 Provides the structure and layout of the web application.
 
-# CSS: 
+**CSS: **
 Adds styles to create an attractive and user-friendly interface.
 
-# JavaScript: 
+**JavaScript:** 
 Enables dynamic functionality for searching and displaying TV show information.
 
-# Axios:
+**Axios:**
 Used to make HTTP requests to the TV Maze API and retrieve TV show data.
 
 # Usage
