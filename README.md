@@ -27,12 +27,3 @@ Used to make HTTP requests to the TV Maze API and retrieve TV show data.
 
 4. Error Handling: If there are no matches or an error occurs, a message will be displayed.
 
-# How to Run
-Clone this repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/your-username/tv-show-search.git
-Open the index.html file in your web browser to start using the TV Show Search.
-
-Enjoy exploring TV shows and discovering their images with ease!
