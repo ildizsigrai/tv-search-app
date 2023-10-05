@@ -6,7 +6,7 @@ The TV Show Search web application allows you to search for TV shows by their ti
 **HTML:**
 Provides the structure and layout of the web application.
 
-**CSS: **
+** CSS: **
 Adds styles to create an attractive and user-friendly interface.
 
 **JavaScript:** 
